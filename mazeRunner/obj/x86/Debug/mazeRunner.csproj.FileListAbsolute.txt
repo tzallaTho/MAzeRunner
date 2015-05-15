@@ -1,0 +1,4 @@
+c:\users\theodora\documents\visual studio 2010\Projects\mazeRunner\mazeRunner\bin\Debug\mazeRunner.exe
+c:\users\theodora\documents\visual studio 2010\Projects\mazeRunner\mazeRunner\bin\Debug\mazeRunner.pdb
+c:\users\theodora\documents\visual studio 2010\Projects\mazeRunner\mazeRunner\obj\x86\Debug\mazeRunner.exe
+c:\users\theodora\documents\visual studio 2010\Projects\mazeRunner\mazeRunner\obj\x86\Debug\mazeRunner.pdb
